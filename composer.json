@@ -1,0 +1,16 @@
+{
+    "name": "mikeludemann/twig-container-elements",
+    "description": "Container and elements with Twig",
+    "type": "project",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Mike Ludemann",
+            "email": "mike-ludemann@hotmail.de"
+        }
+    ],
+    "minimum-stability": "stable",
+    "require": {
+        "twig/twig": "^3.0"
+    }
+}
